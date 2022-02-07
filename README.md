@@ -51,7 +51,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SamOdras/jubelio-test-fe
+   git clone https://github.com/SamOdras/jubelio-test-be
    ```
 2. Install NPM packages
    ```sh
@@ -61,6 +61,14 @@ This is an example of how to list things you need to use the software and how to
 ### How to run in local
 
 1. Follow the installation guide first
+
+2. ( Postgree ) Buat DB dengan nama Schemas db_test_jubelio
+
+3. ( Postgree ) Buat table dengan command yang ada di "sql_init_table.sql"
+
+4. ( Postgree ) Isi table dengan data dari command yang ada di "sql_init_data.sql"
+
+5. Buat file .env, lalu isikan sesuai dengan konfigurasi database masing2
 
 2. Run Npm
    ```sh
