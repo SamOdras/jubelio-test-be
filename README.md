@@ -22,15 +22,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Basic Ecommerce CRUD for jubelio FE-TEST
+Basic Ecommerce CRUD for jubelio BE-TEST
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* ReactJs
+* NodeJs
 * Axios
-* Redux
-* Bootstrap
 
 
 <!-- GETTING STARTED -->
